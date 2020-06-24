@@ -9,8 +9,8 @@ row5 = "#{board[6]}, #{vert}, #{board[7]}, #{vert}, #{board[8]}"
 
 def display_board(board)
   puts "#{board[0]}, #{vert}, #{board[1]}, #{vert}, #{board[2]}"
-  puts row2
   puts 
+  puts "#{board[3]}, #{vert}, #{board[4]}, #{vert}, #{board[5]}"
   puts "#{horiz}"
   puts "#{board[6]}, #{vert}, #{board[7]}, #{vert}, #{board[8]}"
 end
