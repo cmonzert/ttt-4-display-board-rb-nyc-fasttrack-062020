@@ -1,4 +1,4 @@
-board = ["" "" "" "" "" "" "" "" ""]
+board = ["" "" "" "" "X" "" "" "" ""]
 
 def display_board(board)
 vert = "|"
