@@ -8,9 +8,9 @@ row4 = horiz
 row5 = board[6], vert, board[7], vert, board[8]
 
 def display_board(board)
-  puts row1
-  puts row2
-  puts row3
-  puts row4
-  puts row5
+  puts "row1"
+  puts "row2"
+  puts "row3"
+  puts "row4"
+  puts "row5"
 end
