@@ -11,6 +11,6 @@ def display_board(board)
   puts "#{board[0]}, #{vert}, #{board[1]}, #{vert}, #{board[2]}"
   puts row2
   puts row3
-  puts row4
   puts 
+  puts "#{board[6]}, #{vert}, #{board[7]}, #{vert}, #{board[8]}"
 end
