@@ -57,3 +57,4 @@ horiz = "-----------"
   puts "#{horiz}"
   puts "#{board[6]}#{vert}#{board[7]}#{vert}#{board[8]}"
 end
+
